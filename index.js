@@ -1,1 +1,1 @@
-module.exports = require('./lib/swarmkeeper');
+module.exports = require('./lib/swarmkeeper-http');
